@@ -1,2 +1,2 @@
 # vector-tile-sandbox
-vector experiments
+Mapbox GL JS vector map experiments
