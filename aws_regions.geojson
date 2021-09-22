@@ -12,7 +12,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 2.39257067442, 48.855907556 ]
+                "coordinates": [ 126.9040474, 37.5638354 ]
             }
         },
         {
@@ -25,7 +25,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 2.39257067442, 48.855907556 ]
+                "coordinates": [ 150.7918945, -33.8481647 ]
             }
         },
         {
@@ -38,7 +38,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 2.39257067442, 48.855907556 ]
+                "coordinates": [ 8.5665251, 50.1211909 ]
             }
         },
         {
@@ -51,7 +51,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 2.39257067442, 48.855907556 ]
+                "coordinates": [ -0.1716373, 51.5286208 ]
             }
         },
         {
@@ -64,7 +64,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 2.39257067442, 48.855907556 ]
+                "coordinates": [ 2.3120159, 48.8588495 ]
             }
         },
         {
@@ -77,7 +77,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 2.39257067442, 48.855907556 ]
+                "coordinates": [ -78.0682848, 38.7282502 ]
             }
         },
         {
@@ -90,7 +90,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 2.39257067442, 48.855907556 ]
+                "coordinates": [ -83.7901068, 40.3579881 ]
             }
         },
         {
@@ -103,7 +103,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 2.39257067442, 48.855907556 ]
+                "coordinates": [ -121.7042262, 44.1399672 ]
             }
         }
     ]
