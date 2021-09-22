@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "name": "aws-regions",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "locale": "Asia Pacific",
+                "region_name": "ap-northeast-2",
+                "location": "Seoul",
+                "ep_users": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 2.39257067442, 48.855907556 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locale": "Asia Pacific",
+                "region_name": "ap-southeast-2",
+                "location": "Sydney",
+                "ep_users": 31
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 2.39257067442, 48.855907556 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locale": "Europe",
+                "region_name": "eu-central-1",
+                "location": "Frankfurt",
+                "ep_users": 29
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 2.39257067442, 48.855907556 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locale": "Europe",
+                "region_name": "eu-west-2",
+                "location": "London",
+                "ep_users": 37
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 2.39257067442, 48.855907556 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locale": "Europe",
+                "region_name": "eu-west-3",
+                "location": "Paris",
+                "ep_users": 33
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 2.39257067442, 48.855907556 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locale": "US East",
+                "region_name": "us-east-1",
+                "location": "N. Virginia",
+                "ep_users": 221
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 2.39257067442, 48.855907556 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locale": "US East",
+                "region_name": "us-east-2",
+                "location": "Ohio",
+                "ep_users": 193
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 2.39257067442, 48.855907556 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locale": "US West",
+                "region_name": "us-west-2",
+                "location": "Oregon",
+                "ep_users": 120
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 2.39257067442, 48.855907556 ]
+            }
+        }
+    ]
+}
